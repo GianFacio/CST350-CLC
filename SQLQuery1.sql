@@ -1,0 +1,1 @@
+﻿INSERT INTO dbo.users (FIRSTNAME, LASTNAME, SEX, AGE, STATE, EMAIL, USERNAME, PASSWORD) VALUES ('Gisn', 'Facio', 'Male', '22', 'CA', 'gian@gmail.com', 'gianfacio', 'gcu');
